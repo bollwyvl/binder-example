@@ -1,0 +1,1 @@
+An example for using [everware](http://betatim.github.io/posts/project-everware-reusable-science/) based on [this notebook](http://nbviewer.ipython.org/gist/tonyfast/bf392fd362f3e654213f/ui-playground.ipynb).
