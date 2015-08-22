@@ -1,4 +1,4 @@
-FROM anaderi/rep-jupyterhub
+FROM andrewosh/binder-base
 MAINTAINER Tony Fast <tony.fast@gmail.com>
 
 RUN pip2 install -U --no-cache-dir \
